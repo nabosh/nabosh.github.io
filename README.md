@@ -5,7 +5,7 @@ Git Resources
 
 http://rogerdudler.github.io/git-guide/
 
-https://learngitbranching.js.org
+<a href="https://learngitbranching.js.org" target="_blank">Learn branching</a>
 
 http://git-school.github.io/visualizing-git/
 
