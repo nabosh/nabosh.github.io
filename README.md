@@ -13,3 +13,8 @@
 
 <a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens" target="_blank">Git Lens</a>
 
+<u><b>Learn Swift</b></u>
+
+<a href="https://learnswift.tips" target="_blank">learnswift.tips</a>
+
+<a href="https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html" target="_blank">Docs</a>
