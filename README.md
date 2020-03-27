@@ -18,3 +18,14 @@
 <a href="https://learnswift.tips" target="_blank">learnswift.tips</a>
 
 <a href="https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html" target="_blank">Docs</a>
+
+<u><b>Okta</b></u>
+
+<a href="learnswift.tips" target="_blank">learnswift.tips</a>
+
+<a href="" target="_blank">Docs</a>
+
+<u><b>EJS</b></u>
+
+<a href="https://ejs.co" target="_blank">learnswift.tips</a>
+
