@@ -29,3 +29,7 @@
 
 <a href="https://ejs.co" target="_blank">learnswift.tips</a>
 
+<u><b>Authentication</b></u>
+
+<a href="https://www.youtube.com/watch?v=-RCnNyD0L-s&t=750s" target="_blank">Node Passport System (youtube with github link)</a>
+
