@@ -40,12 +40,10 @@
 <a href="https://www.npmjs.com/package/bcrypt" target="_blank">bcrypt (has passwords)</a>
 
 <h2><b><u>General Concepts</u></b><h2>
-<h2><b>Security</b><h2>
+<h2><b>Security</b></h2>
 
 <p>Salts don't protect against dictionary attacks or brute force attacks</p>
 
 <a href="https://stackoverflow.com/questions/1561174/sha512-vs-blowfish-and-bcrypt" target="_blank">SHA512 vs. Blowfish and Bcrypt [closed]</a>
-
-<br>
 
 <a href="https://medium.com/@danboterhoven/why-you-should-use-bcrypt-to-hash-passwords-af330100b861" target="_blank">Why you should use BCrypt</a>
