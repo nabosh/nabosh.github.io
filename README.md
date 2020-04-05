@@ -40,7 +40,7 @@
 <a href="https://www.npmjs.com/package/bcrypt" target="_blank">bcrypt (has passwords)</a>
 
 <h2><b><u>General Concepts</u></b><h2>
-<h2><b><u>Security</u></b><h2>
+<h2><b>Security</b><h2>
 
 <p>Salts don't protect against dictionary attacks or brute force attacks</p>
 
