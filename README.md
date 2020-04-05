@@ -46,4 +46,6 @@
 
 <a href="https://stackoverflow.com/questions/1561174/sha512-vs-blowfish-and-bcrypt" target="_blank">SHA512 vs. Blowfish and Bcrypt [closed]</a>
 
+<br>
+
 <a href="https://medium.com/@danboterhoven/why-you-should-use-bcrypt-to-hash-passwords-af330100b861" target="_blank">Why you should use BCrypt</a>
